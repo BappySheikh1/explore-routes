@@ -1,0 +1,12 @@
+.Header a{
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 17px;
+    color: black;
+}
+.Header a:hover{
+background-color: lightblue;
+}
+.Active{
+    background-color: rgb(209, 107, 107);
+}
